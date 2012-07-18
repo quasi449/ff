@@ -1,0 +1,310 @@
+0,LeSean McCoy,RB,Eagles,7
+1,Arian Foster,RB,Texans,8
+2,Aaron Rodgers,QB,Packers,10
+3,Ray Rice,RB,Ravens,8
+4,Chris Johnson,RB,Titans,11
+5,Tom Brady,QB,Patriots,9
+6,Calvin Johnson,WR,Lions,5
+7,Maurice Jones-Drew,RB,Jaguars,6
+8,Larry Fitzgerald,WR,Cardinals,10
+9,Andre Johnson,WR,Texans,8
+10,Rob Gronkowski,TE,Patriots,9
+11,Greg Jennings,WR,Packers,10
+12,Ryan Mathews,RB,Chargers,7
+13,Hakeem Nicks,WR,Giants,11
+14,Julio Jones,WR,Falcons,7
+15,Trent Richardson,RB,Browns,10
+16,Darren McFadden,RB,Raiders,5
+17,Drew Brees,QB,Saints,6
+18,Matthew Stafford,QB,Lions,5
+19,A.J.  Green,WR,Bengals,8
+20,Ahmad Bradshaw,RB,Giants,11
+21,Cam Newton,QB,Panthers,6
+22,Roddy White,WR,Falcons,7
+23,Percy Harvin,WR,Vikings,11
+24,Victor Cruz,WR,Giants,11
+25,Dez Bryant,WR,Cowboys,5
+26,Brandon Marshall,WR,Bears,6
+27,Miles Austin,WR,Cowboys,5
+28,Marshawn Lynch,RB,Seahawks,11
+29,Tony Romo,QB,Cowboys,5
+30,Philip Rivers,QB,Chargers,7
+31,Jordy Nelson,WR,Packers,10
+32,Wes Welker,WR,Patriots,9
+33,Fred Jackson,RB,Bills,8
+34,Steve Johnson,WR,Bills,8
+35,Jimmy Graham,TE,Saints,6
+36,Antonio Gates,TE,Chargers,7
+37,Steve Smith,WR,Panthers,6
+38,Matt Forte,RB,Bears,6
+39,Brandon Lloyd,WR,Patriots,9
+40,DeMarco Murray,RB,Cowboys,5
+41,Dwayne Bowe,WR,Chiefs,7
+42,Eli Manning,QB,Giants,11
+43,Steven Jackson,RB,Rams,9
+44,Jamaal Charles,RB,Chiefs,7
+45,Jeremy Maclin,WR,Eagles,7
+46,Matt Ryan,QB,Falcons,7
+47,Demaryius Thomas,WR,Broncos,7
+48,Darrius Heyward-Bey,WR,Raiders,5
+49,Antonio Brown,WR,Steelers,4
+50,Malcom Floyd,WR,Chargers,7
+51,Denarius Moore,WR,Raiders,5
+52,Frank Gore,RB,49ers,9
+53,Torrey Smith,WR,Ravens,8
+54,Doug Martin,RB,Buccaneers,5
+55,Robert Griffin,QB,Redskins,10
+56,Michael Turner,RB,Falcons,7
+57,Marques Colston,WR,Saints,6
+58,Darren Sproles,RB,Saints,6
+59,Chris Wells,RB,Cardinals,10
+60,Eric Decker,WR,Broncos,7
+61,Mike Wallace,WR,Steelers,4
+62,Adrian Peterson,RB,Vikings,11
+63,James Starks,RB,Packers,8
+64,Vincent Jackson,WR,Buccaneers,5
+65,BenJarvus Green-Ellis,RB,Bengals,8
+66,Vernon Davis,TE,49ers,9
+67,DeSean Jackson,WR,Eagles,7
+68,Jonathan Stewart,RB,Panthers,6
+69,Isaac Redman,RB,Steelers,4
+70,Titus Young,WR,Lions,5
+71,Shonn Greene,RB,Jets,9
+72,Jahvid Best,RB,Lions,5
+73,Roy Helu,RB,Redskins,10
+74,Jay Cutler,QB,Bears,6
+75,Jermichael Finley,TE,Packers,10
+76,Reggie Wayne,WR,Colts,4
+77,Santana Moss,WR,Redskins,10
+78,Peyton Manning,QB,Broncos,7
+79,Willis McGahee,RB,Broncos,7
+80,Matt Schaub,QB,Texans,8
+81,Andrew Luck,QB,Colts,4
+82,QB Eagles No. 7,QB,Eagles,7
+83,Aaron Hernandez,TE,Patriots,9
+84,DeAngelo Williams,RB,Panthers,6
+85,Mark Ingram,RB,Saints,6
+86,Jason Witten,TE,Cowboys,5
+87,Ben Tate,RB,Texans,8
+88,Michael Bush,RB,Bears,6
+89,Jonathan Baldwin,WR,Chiefs,7
+90,Pierre Garcon,WR,Redskins,10
+91,Ryan Fitzpatrick,QB,Bills,8
+92,Michael Crabtree,WR,49ers,9
+93,C.J. Spiller,RB,Bills,8
+94,Tim Tebow,QB,Jets,9
+95,Ben Roethlisberger,QB,Steelers,4
+96,Brandon Pettigrew,TE,Lions,5
+97,Jake Locker,QB,Titans,11
+98,Kenny Britt,WR,Titans,11
+99,Toby Gerhart,RB,Vikings,11
+100,Reggie Bush,RB,Dolphins,5
+101,Donald Brown,RB,Colts,4
+102,Josh Freeman,QB,Buccaneers,5
+103,Stevan Ridley,RB,Patriots,9
+104,Mikel Leshoure,RB,Lions,5
+105,Sidney Rice,WR,Seahawks,11
+106,Brent Celek ,TE,Eagles,7
+107,Peyton Hillis,RB,Chiefs,7
+108,Greg Little,WR,Browns,10
+109,Michael Floyd,WR,Cardinals,10
+110,Jared Cook,TE,Titans,11
+111,Jacquizz Rodgers,RB,Falcons,7
+112,Tony Gonzalez,TE,Falcons,7
+113,Santonio Holmes,WR,Jets,9
+114,Joe Flacco,QB,Ravens,8
+115,David Nelson,WR,Bills,8
+116,Robert Meachem,WR,Chargers,7
+117,Mario Manningham,WR,49ers,9
+118,Anquan Boldin,WR,Ravens,8
+119,James Jones,WR,Packers,10
+120,Ryan Williams,RB,Cardinals,10
+121,Jabar Gaffney,WR,Patriots,9
+122,Jermaine Gresham,TE,Bengals,8
+123,Lestar Jean,WR,Texans,8
+124,Andre Caldwell,WR,Broncos,7
+125,Carson Palmer,QB,Raiders,5
+126,Mike Williams,WR,Buccaneers,5
+127,Texans,DEF,Texans,8
+128,Golden Tate,WR,Seahawks,11
+129,Kendall Wright,WR,Titans,11
+130,Eagles,DEF,Eagles,7
+131,Owen Daniels,TE,Texans,8
+132,Pierre Thomas,RB,Saints,6
+133,Alshon Jeffery,WR,Bears,6
+134,Ricardo Lockette,WR,Seahawks,11
+135,Lions,DEF,Lions,5
+136,Fred Davis,TE,Redskins,10
+137,Daniel Thomas,RB,Dolphins,7
+138,Justin Blackmon,WR,Jaguars,6
+139,Greg Olsen,TE,Panthers,6
+140,Sebastian Janikowski,K,Raiders,5
+141,Christian Ponder,QB,Vikings,11
+142,Dustin Keller,TE,Jets,9
+143,Nate Washington,WR,Titans,11
+144,Stephen Gostkowski,K,Patriots,9
+145,Cardinals,DEF,Cardinals,10
+146,Kendall Hunter,RB,49ers,9
+147,Coby Fleener,TE,Colts,4
+148,Vikings,DEF,Vikings,11
+149,Lance Moore,WR,Saints,6
+150,Alex Henery,K,Eagles,7
+151,Chiefs,DEF,Chiefs,7
+152,Randall Cobb,WR,Packers,10
+153,Kevin Smith,RB,Lions,5
+154,Leonard Hankerson,WR,Redskins,10
+155,David Akers,K,49ers,9
+156,Packers,DEF,Packers,10
+157,Heath Miller,TE,Steelers,4
+158,David Wilson,RB,Giants,11
+159,Brandon LaFell,WR,Panthers,6
+160,Mason Crosby,K,Packers,10
+161,Bears,DEF,Bears,6
+162,Rashard Mendenhall,RB,Steelers,4
+163,LeGarrette Blount,RB,Buccaneers,5
+164,Bills,DEF,Bills,8
+165,Felix Jones,RB,Cowboys,5
+166,Jerome Simpson,WR,Vikings,11
+167,49ers,DEF,49ers,9
+168,Giants,DEF,Giants,11
+169,Arrelious Benn,WR,Buccaneers,5
+170,Matt Flynn,QB,Seahawks,11
+171,Rob Bironas,K,Titans,11
+172,Ed Dickson,TE,Ravens,8
+173,Matt Bryant,K,Falcons,7
+174,Broncos,DEF,Broncos,7
+175,Laurent Robinson,WR,Jaguars,6
+176,Steelers,DEF,Steelers,4
+177,Mike Goodson,RB,Raiders,5
+178,Jacoby Ford,WR,Raiders,5
+179,Chad Ochocinco,WR,Dolphins,7
+180,Shane Vereen,RB,Patriots,9
+181,Jacob Tamme,TE,Broncos,7
+182,Patriots,DEF,Patriots,9
+183,Davone Bess,WR,Dolphins,7
+184,Mohamed Massaquoi,WR,Browns,10
+185,Alex Green,RB,Packers,10
+186,Kyle Rudolph,TE,Vikings,11
+187,Ravens,DEF,Ravens,8
+188,Dennis Pitta,TE,Ravens,8
+189,Dan Bailey,K,Cowboys,5
+190,Robbie Gould,K,Bears,6
+191,Jaguars,DEF,Jaguars,6
+192,Austin Collie,WR,Colts,4
+193,Kevin Walter,WR,Texans,8
+194,Joel Dreessen,TE,Broncos,7
+195,Garrett Hartley,K,Saints,6
+196,Rueben Randle,WR,Giants,11
+197,Martellus Bennett,TE,Giants,11
+198,Josh Morgan,WR,Redskins,10
+199,Ronnie Brown,RB,Chargers,7
+200,Sam Bradford,QB,Rams,9
+201,Jason Hanson,K,Lions,5
+202,Seahawks,DEF,Seahawks,11
+203,Earl Bennett,WR,Bears,6
+204,Devery Henderson,WR,Saints,6
+205,Evan Royster,RB,Redskins,10
+206,Scott Chandler,TE,Bills,8
+207,Steve Breaston,WR,Chiefs,7
+208,Isaiah Pead,RB,Rams,9
+209,Jason Avant,WR,Eagles,7
+210,Redskins,DEF,Redskins,10
+211,Ben Watson,TE,Browns,10
+212,Rian Lindell,K,Bills,8
+213,Nate Kaeding,K,Chargers,7
+214,Neil Rackers,K,Redskins,10
+215,Bengals,DEF,Bengals,8
+216,Randy Bullock,K,Texans,8
+217,Joseph Addai,RB,Patriots,9
+218,Matt Cassel,QB,Chiefs,7
+219,Andy Dalton,QB,Bengals,8
+220,Jets,DEF,Jets,9
+221,Brian Hartline,WR,Dolphins,7
+222,Danny Amendola,WR,Rams,9
+223,Nate Burleson,WR,Lions,5
+224,Dallas Clark,TE,Buccaneers,5
+225,Emmanuel Sanders,WR,Steelers,4
+226,Mike Nugent,K,Bengals,8
+227,Cowboys,DEF,Cowboys,5
+228,Olindo Mare,K,Panthers,6
+229,Dan Carpenter,K,Dolphins,7
+230,Stephen Hill,WR,Jets,9
+231,Marc Tyler,RB,Packers,10
+232,Evan Moore,TE,Browns,10
+233,Ryan Succop,K,Chiefs,7
+234,Mohamed Sanu,WR,Bengals,8
+235,Kellen Winslow,TE,Seahawks,11
+236,Marcedes Lewis,TE,Jaguars,6
+237,Dion Lewis,RB,Eagles,7
+238,Rashad Jennings,RB,Jaguars,6
+239,Tony Scheffler,TE,Lions,5
+240,Connor Barth,K,Buccaneers,5
+241,Jordan Shipley,WR,Bengals,8
+242,Dan Herron,RB,Bengals,8
+243,Brian Quick,WR,Rams,9
+244,Alex Smith,QB,49ers,9
+245,Kellen Davis,TE,Bears,6
+246,Billy Cundiff,K,Ravens,8
+247,Chris Givens,WR,Rams,9
+248,Mike Tolbert,RB,Panthers,6
+249,Lance Kendricks,TE,Rams,9
+250,Shaun Suisham,K,Steelers,4
+251,Matt Prater,K,Broncos,7
+252,Anthony Fasano,TE,Dolphins,7
+253,Lawrence Tynes,K,Giants,11
+254,Harry Douglas,WR,Falcons,7
+255,Dwayne Allen,TE,Colts,4
+256,Ronnie Hillman,RB,Broncos,7
+257,Chris Cooley,TE,Redskins,10
+258,Adam Vinatieri,K,Colts,4
+259,Zach Miller,TE,Seahawks,11
+260,Eddie Royal,WR,Chargers,7
+261,David Gettis,WR,Panthers,6
+262,Tony Moeaki,TE,Chiefs,7
+263,Joe McKnight,RB,Jets,9
+264,Danny Woodhead,RB,Patriots,9
+265,Randy Moss,WR,49ers,9
+266,A.J.  Jenkins,WR,49ers,9
+267,Dexter McCluster,RB,Chiefs,7
+268,Rob Housler,TE,Cardinals,10
+269,Orson Charles,TE,Bengals,8
+270,Deion Branch,WR,Patriots,9
+271,John Carlson,TE,Vikings,11
+272,Donald Jones,WR,Bills,8
+273,Nick Toon,WR,Saints,6
+274,Bernard Pierce,RB,Ravens,8
+275,Delone Carter,RB,Colts,4
+276,Andre Roberts,WR,Cardinals,10
+277,LaMichael James,RB,49ers,9
+278,Kevin Boss,TE,Chiefs,7
+279,Michael Egnew,TE,Dolphins,7
+280,Leon Washington,RB,Seahawks,11
+281,Javon Ringer,RB,Titans,11
+282,Brandon Weeden,QB,Browns,10
+283,Todd Heap,TE,Cardinals,10
+284,Lamar Miller,RB,Dolphins,7
+285,Ryan Broyles,WR,Lions,5
+286,John Skelton,QB,Cardinals,10
+287,Montario Hardesty,RB,Browns,10
+288,Mark Sanchez,QB,Jets,9
+289,Matt Moore,QB,Dolphins,7
+290,Ryan Tannehill,QB,Dolphins,7
+291,Kevin Kolb,QB,Cardinals,10
+292,Blaine Gabbert,QB,Jaguars,6
+293,Steven Hauschka,K,Seahawks,11
+294,Jay Feely,K,Cardinals,10
+295,Phil Dawson,K,Browns,10
+296,Josh Brown,K,Jets,9
+297,Greg Zuerlein,K,Rams,9
+298,Josh Scobee,K,Jaguars,6
+299,Blair Walsh,K,Vikings,11
+300,Titans,DEF,Titans,11
+301,Browns,DEF,Browns,10
+302,Colts,DEF,Colts,4
+303,Falcons,DEF,Falcons,7
+304,Chargers,DEF,Chargers,7
+305,Dolphins,DEF,Dolphins,7
+306,Rams,DEF,Rams,9
+307,Raiders,DEF,Raiders,5
+308,Panthers,DEF,Panthers,6
+309,Saints,DEF,Saints,6
